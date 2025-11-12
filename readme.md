@@ -1,4 +1,4 @@
-# Darkboy.Out [![NuGet](https://img.shields.io/nuget/v/Darkboy.Out?logo=nuget)](https://www.nuget.org/packages/Darkboy.Out/) [![GitHub](https://img.shields.io/github/license/Bobsans/Darkboy.Out)](licence)
+# Darkboy.Out [![NuGet](https://img.shields.io/nuget/v/Darkboy.Out?logo=nuget)](https://www.nuget.org/packages/Darkboy.Out/) [![GitHub](https://img.shields.io/github/license/Bobsans/Darkboy.Out)](license)
 
 The package implements the Result pattern. Once again :)
 
