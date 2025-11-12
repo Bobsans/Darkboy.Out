@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <LangVersion>default</LangVersion>
+    <TargetFrameworks>net10.0;net8.0;net9.0</TargetFrameworks>
+    <Version>1.0.0</Version>
+    <IsPackable>true</IsPackable>
+    <PackageId>Darkboy.Out</PackageId>
+    <Title>Darkboy.Out</Title>
+    <Authors>Darkboy</Authors>
+    <PackageReadmeFile>readme.md</PackageReadmeFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/Bobsans/Darkboy.Out</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="../readme.md" Pack="true" PackagePath="\"/>
+  </ItemGroup>
+</Project>
